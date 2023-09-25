@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Rubik&display=swap');
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+p, h1
+{
+    color: white;
+}
+
+.bigBox1
+{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large;
+}
+
+.bigBox2
+{
+    display: flex;
+}
+
+.box1
+{
+    display: block;
+    width: 60vw;
+    font-family: 'Rubik', sans-serif;
+    font-size: x-large;
+    margin-left: 55px;
+    margin-right: 55px;
+    background-color: black;
+    color: white;
+}
+
+.box3
+{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: x-large;
+    margin-left: 40px;
+    justify-content: end;
+    border-color: white;
+    text-align: center;
+}
+
+.galeria img
+{
+    width: 700px;
+    display: table-column;
+    margin-bottom: 200px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.bar
+{
+    background-color: white;
+    margin-left: 40px;
+    height: 5px;
+    width: 95vw;
+}
+
+.galeria
+{
+    display: column;
+}
+
+.galeria1
+{
+    display: flex;
+    text-align: center;
+}
+
+.galeria2
+{
+    display: flex;
+    text-align: center;
+}
+
+.galeria3
+{
+    display: flex;
+    text-align: center;
+}
+
+.textp
+{
+    padding: 15px;
+    font-family: 'Rubik', sans-serif;
+    font-size: large;
+}
+
+.texta
+{
+    text-align: center;
+}
